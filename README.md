@@ -1,0 +1,3 @@
+# Nvim Configuration Backup
+
+Just backing up my neovim configs, since I actually have done some work to it...
